@@ -36,7 +36,7 @@ public abstract class Driver{
             myStmt = myCon.createStatement();
             //3. Execute SQL query
             
-            //myStmt.executeUpdate("DELETE FROM employees WHERE name = 'Gökhan'");
+            //myStmt.executeUpdate("DELETE FROM employees WHERE name = ''");
            
             //myRs = myStmt.executeQuery("SELECT * FROM employees");
             
